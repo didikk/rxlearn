@@ -1,1 +1,3 @@
-# rxlearn
+# RxLearn
+
+Learning RxJava
